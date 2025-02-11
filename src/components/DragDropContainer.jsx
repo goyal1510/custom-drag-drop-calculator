@@ -13,7 +13,7 @@ const DragDropContainer = () => {
   }));
 
   return (
-    <div className="border-2 p-2 text-center rounded">
+    <div className="border-2 p-2 text-center rounded m-2">
       <div className="text-lg font-semibold mb-2">Your Components</div>
       
       <div 

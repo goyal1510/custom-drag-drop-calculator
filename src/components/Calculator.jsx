@@ -34,7 +34,7 @@ const Calculator = () => {
     };
 
     return (
-        <div className="border rounded p-2">
+        <div className="border rounded p-2 m-2">
             <div className="text-lg font-semibold mb-2 text-center">
                 Customised Calculator
             </div>
