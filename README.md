@@ -1,6 +1,6 @@
-# Drag & Drop Calculator Builder
+# Custom Drag & Drop Calculator
 
-This project is a **React-based Drag & Drop Calculator Builder** that allows users to dynamically create a custom calculator interface using **Zustand** for state management and **Tailwind CSS** for styling. It includes drag-and-drop functionality and a dark mode toggle. **[Live Preview](https://custom-drag-drop-calculator.vercel.app/)**
+This project is a **React-based Drag & Drop Calculator** that allows users to dynamically create a custom calculator interface using **Zustand** for state management and **Tailwind CSS** for styling. It includes drag-and-drop functionality and a dark mode toggle. **[Live Preview](https://custom-drag-drop-calculator.vercel.app/)**
 
 ## 🚀 Features
 
